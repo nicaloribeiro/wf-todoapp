@@ -11,12 +11,18 @@ export const Input = styled.input`
 
     font-style: normal;
     font-weight: 400;
-    color: var(--gray-500);
+    color: var(--gray-600);
     line-height: 18px;
     font-size: 16px;
 
     :focus {
         outline: none;
+    }
+
+    ::placeholder {
+        font-style: italic;
+        opacity: .8;
+        color: var(--gray-500);
     }
 
 `
