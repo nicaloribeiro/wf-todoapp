@@ -7,7 +7,7 @@ export const Row = styled.div`
     width: 352px;
     height: 280px;
     border: 1px dashed var(--gray-400);
-    color: var(--gray-600);
+    color: var(--gray-700);
     background: var(--gray-100);
 
     font-style: normal;

@@ -13,7 +13,7 @@ export const Row = styled.div`
 
     font-style: normal;
     font-weight: 400;
-    color: var(--gray-600);
+    color: var(--gray-700);
     font-size: 14px;
     line-height: 16px;
 

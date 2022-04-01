@@ -21,7 +21,6 @@ export const Input = styled.input`
 
     ::placeholder {
         font-style: italic;
-        opacity: .8;
         color: var(--gray-500);
     }
 
