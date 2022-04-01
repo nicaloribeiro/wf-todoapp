@@ -6,7 +6,7 @@ export const GlobalStyle = createGlobalStyle`
         --gray-100: #F2F2F2;
         --gray-200: #EEEEEE;
         --gray-400: #CCCCCC;
-        --gray-500: #909090
+        --gray-500: #909090;
         --gray-600: #606060;
     }
 
@@ -14,6 +14,7 @@ export const GlobalStyle = createGlobalStyle`
         margin: 0;
         padding: 0;
         box-sizing: border-box;
+        font-family: 'Roboto', sans-serif;
     }
 
     body {

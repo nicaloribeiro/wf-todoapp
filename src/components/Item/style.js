@@ -9,8 +9,8 @@ export const Row = styled.div`
     background: var(--gray-200);
     border-radius: 2px;
     padding: 8px 16px;
+    margin-bottom: 8px;
 
-    font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
     color: var(--gray-600);

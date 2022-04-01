@@ -10,7 +10,6 @@ export const Row = styled.div`
     color: var(--gray-600);
     background: var(--gray-100);
 
-    font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
     font-size: 12px;

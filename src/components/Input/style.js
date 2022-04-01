@@ -9,7 +9,6 @@ export const Input = styled.input`
     border: none;
     padding: 15px 16px;
 
-    font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
     color: var(--gray-500);
