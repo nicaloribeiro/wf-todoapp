@@ -1,10 +1,13 @@
 import TodoLayout from "./Todo";
 import { TodoProvider } from "../../contexts/TodoContext";
+import { PageWrapper } from "./style";
 
 export default function Todo() {
     return (
        <TodoProvider>
-           <TodoLayout/>
+           <PageWrapper>
+                <TodoLayout/>
+           </PageWrapper>
        </TodoProvider>
     )
 }
